@@ -1,0 +1,5 @@
+/* client/styles.css */
+/* Add your custom styles here */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
